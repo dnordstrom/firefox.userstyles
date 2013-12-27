@@ -34,6 +34,6 @@ Mankind’s Precious is a work-in-progress collection of user styles created for
 ![Screenshot with subtle theme](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot-light_theme.png)
 
 
-**Heavier Theme**
+**Heavier theme**
 
 ![Screenshot with heavier theme](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot-heavy_theme.png)
