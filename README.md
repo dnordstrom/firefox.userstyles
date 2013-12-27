@@ -14,12 +14,12 @@ Mankind’s Precious is a work-in-progress collection of user styles created for
 
 ### Screenshots
 
-![Screenshot](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot.png)
+![Screenshot](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot.png)
 
-![Screenshot with bookmarks toolbar](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-toolbar.png)
+![Screenshot with bookmarks toolbar](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot-toolbar.png)
 
-![Screenshot with bookmarks sidebar](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-sidebar.png)
+![Screenshot with bookmarks sidebar](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot-sidebar.png)
 
-![Screenshot with subtle theme](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-light_theme.png)
+![Screenshot with subtle theme](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot-light_theme.png)
 
-![Screenshot with heavier theme](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-heavy_theme.png)
+![Screenshot with heavier theme](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot-heavy_theme.png)
