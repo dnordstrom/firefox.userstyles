@@ -1,4 +1,25 @@
-userstyles.firefox
-==================
+## Mankind's Precious User Styles
 
-User Styles · Firefox Nightly user interface customizations.
+### Firefox Nightly
+
+These styles provide a customized Firefox Nightly (with the new Australis interface) user interface&mdash;clean and simplified, with a bit more space here and there.
+
+### Usage
+
+Use the [Stylish](https://addons.mozilla.org/en-US/firefox/addon/stylish/) extension to install [the styles on userstyles.org](http://userstyles.org/styles/96473/mankind-s-precious-firefox-nightly)&mdash;or add the CSS to your [userChrome.css file](http://kb.mozillazine.org/index.php?title=UserChrome.css).
+
+### About Mankind’s Precious
+
+Mankind’s Precious is a work-in-progress collection of user styles created for Mozilla Firefox to increase the usability and readability of sites and apps. Visually, they are inspired by Solarized, Mozilla, and Firefox OS.
+
+### Screenshots
+
+![Screenshot](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot.png)
+
+![Screenshot with bookmarks toolbar](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-toolbar.png)
+
+![Screenshot with bookmarks sidebar](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-sidebar.png)
+
+![Screenshot with subtle theme](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-light_theme.png)
+
+![Screenshot with heavier theme](https://raw.github.com/dnordstrom/userstyles.firefox/screenshot-heavy_theme.png)
