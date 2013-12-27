@@ -14,7 +14,7 @@ Mankind’s Precious is a work-in-progress collection of user styles created for
 
 ### Screenshots
 
-**Default**
+**Nice and spiffy**
 
 ![Screenshot](https://raw.github.com/dnordstrom/userstyles.firefox/master/screenshot.png)
 
